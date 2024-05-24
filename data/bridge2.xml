@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<interfederation>
+  <federation>
+    <name>federation-01</name>
+    <file>federation-01.fed</file>
+    <surrogate>bridge1</surrogate>
+    <host>cassis</host>
+  </federation>
+  <federation>
+    <name>federation-02</name>
+    <file>federation-02.fed</file>
+    <surrogate>bridge2</surrogate>
+    <host>cassis</host>
+  </federation>
+</interfederation>

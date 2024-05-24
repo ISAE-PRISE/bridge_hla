@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<interfederation>
+  <federation>
+    <name>Test01</name>
+    <file>Test01.xml</file>
+    <surrogate>bridge1</surrogate>
+    <host>localhost</host>
+    <synchro>Init</synchro>
+  </federation>
+  <federation>
+    <name>Test02</name>
+    <file>Test02.xml</file>
+    <surrogate>bridge2</surrogate>
+    <host>localhost</host>
+    <synchro>Init</synchro>
+  </federation>
+</interfederation>
